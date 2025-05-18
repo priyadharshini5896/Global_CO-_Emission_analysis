@@ -10,7 +10,7 @@ This project provides a data-driven analysis and interactive dashboard to visual
  4.cleaned_emissions_data.csv – Final cleaned dataset used for visualization.
  5.Co2 emission analysis.pbix – Power BI dashboard file.
  6.Global_CO2_Emission_Analysis_report.pdf – 2-page summary report of methodology and findings.
-
+ 
 # Tools Used
  1.Python (Pandas) – Data preprocessing and metric calculations.
  2.Power BI – Dashboard design and interactive visualizations.
